@@ -1,5 +1,5 @@
-- 👋 Hi, I’m in Level 1 of Computer Programming at Conestoga College
-- 🌱 I’m currently learning C#, HTML and CSS in class and React.js on my own
+- 👋 Hi, I’m in Level 2 of Computer Applications Development at Conestoga College
+- 🌱 I’m currently learning ASP.net and React native
 
 <!---
 martamitchell/martamitchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
